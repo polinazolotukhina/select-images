@@ -3,10 +3,10 @@
 [![Dependency Status](https://david-dm.org/coryhouse/react-slingshot.svg?style=flat-square)](https://david-dm.org/coryhouse/react-slingshot)
 [![Coverage Status](https://img.shields.io/coveralls/coryhouse/react-slingshot/master.svg?style=flat-square)](https://coveralls.io/github/coryhouse/react-slingshot?branch=master)
 
-# SImple-to-do
+# Select
 
 
-**Clone the project**. git clone https://github.com/polinazolotukhina/SImple-to-do.git
+**Clone the project**. git clone https://github.com/polinazolotukhina/select-images.git
 
 **Go to the folder **. cd SImple-to-do
 
@@ -15,5 +15,3 @@
 **Run **. npm start -s
 
 
-![Alt text](
-https://github.com/polinazolotukhina/SImple-to-do/blob/master/Screen%20Shot%202018-01-30%20at%207.18.11%20PM.png)
